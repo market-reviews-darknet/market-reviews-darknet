@@ -118,4 +118,6 @@ Darknet markets provide opportunities for anonymous transactions. By adhering to
 
 Please contribute and add stars to this repo.
 
-Update: url is operational and live
+
+
+Update:  07.07.2025 Link is now clickable
